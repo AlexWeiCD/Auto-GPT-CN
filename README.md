@@ -316,9 +316,11 @@ HUGGINGFACE_API_TOKEN="YOUR_HUGGINGFACE_API_TOKEN"
 ## 国内Auto GPT交流群
 群主会不定期发布 各类亮眼项目体验版本 供大家体验，星球会不定期发布一些商业化的 AI 工具。欢迎大家加我的微信，我会拉您入讨论群学习AUTO GPT。
 
-|              直接申请入群              |             直接入群                 |             知识星球                       |
-|:-------------------------------:|:-----------------------------------------------:|
-| <img src="./img/wx_qrcode.jpg" width="300"/> | <img src="./img/qunwxqrcode.jpg" width="300"/>  | <img src="./img/pla_code.jpg" width="300"/> |
+
+|              直接加群               |                 如果前面的过期，加我拉你入群                  |                      知识星球                       |
+|:-------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
+| <img src="./img/qunwxqrcode.jpg" width="300"/> | <img src="./img/wx_qrcode.jpg" width="300"/> | <img src="./img/pla_code.jpg" width="300"/> |
+
 
 
 ## 感谢
