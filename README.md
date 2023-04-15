@@ -86,14 +86,14 @@ Optional:
 1. 克隆存储库： 对于这个步骤，您需要已安装Git，但是您也可以通过点击此页面顶部的按钮下载zip文件来代替。☝️
 
 ```
-git clone https://github.com/Torantulino/Auto-GPT.git
+git clone https://github.com/AlexWeiCD/Auto-GPT-CN.git
 ```
 
 2. 前往项目目录：
    _(请在CMD窗口中输入以下内容，以将CMD窗口导航到刚刚下载的存储库所在位置：)_
 
 ```
-cd 'Auto-GPT'
+cd 'Auto-GPT-CN'
 ```
 
 3. 安装必需的依赖项：
