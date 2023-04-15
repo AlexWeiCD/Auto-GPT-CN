@@ -1,4 +1,4 @@
-# Auto-GPT：一个自主的 GPT-4 实验
+# Auto-GPT：中文翻译版，欢迎交流 ,一句话让你懂它是什么
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/auto-gpt?style=social)
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=RiseInRose.autogpt&left_color=blue&right_color=green)
